@@ -27,8 +27,9 @@
 // frutat.shift();
 
 //krijimi i vargjeve
-let vargu1 = [];
+// let vargu1 = [];
 //krijimi i vargut duke ja tregu gjatsin
-let vargu2 = new Array(5);
-let vargu3 = new Array(1,2,3,4);
-console.log(vargu3)
+// let vargu2 = new Array(5);
+// let vargu3 = new Array(1,2,3,4);
+// console.log(vargu3)
+
