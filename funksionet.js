@@ -84,14 +84,51 @@
 
 // console.log(numriMeIMadh(14,15));
 
-function repeatWord(fjala, numriiPerseritjeve) {
-    for (let i = 1; i <= numriiPerseritjeve; i++) {
-        console.log(fjala);
-    }
-}
+// function repeatWord(fjala, numriiPerseritjeve) {
+//     for (let i = 1; i <= numriiPerseritjeve; i++) {
+//         console.log(fjala);
+//     }
+// }
 
-repeatWord("mirjeta", 15);
-repeatWord("mirjeta1234", 10);
-repeatWord("a", 100);
-repeatWord(12345 , 4);
+// repeatWord("mirjeta", 15);
+// repeatWord("mirjeta1234", 10);
+// repeatWord("a", 100);
+// repeatWord(12345 , 4);
+
+// function mbledh(nr1=200 , nr2=100) {
+//     console.log(nr1 , nr2);
+//     return nr1 + nr2;
+// }
+
+// function double(vlera) {
+//     return vlera * 2;
+// }
+
+// function fuqija(nr1) {
+//     return nr1 * nr1
+// }
+
+// function fuqija (nr1) {
+//     if (nr1 == 0 || nr1 == 1) {
+//         return "nuk ki nevoj me ngrit ne fuqi"
+//     }
+//     return nr1 * nr1;
+// }
+// console.log(fuqija(1));
+
+// function seyHello() {
+//     console.log("Hello")
+// }
+
+// let bardhi = () =>{
+//     console.log("Hello")
+// }
+
+// let bardhi = (nr1) => {
+//     if (nr1 == 0 || nr1 == 1) {
+//         return "nuk ki nevoj me ngrit ne fuqi"
+//     }
+//     return nr1 * nr1;
+// }
+// console.log(fuqija(1));
 
