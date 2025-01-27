@@ -132,3 +132,43 @@
 // }
 // console.log(fuqija(1));
 
+// function guesstheword (fjala) {
+//     let fjalaEZgjedhur = "scantech";
+//     if (fjalaEZgjedhur == fjala) {
+//         alert("Urime e ki gjet fjalen");
+//     } else{
+//         alert("Nuk e ki gjet")
+//     }
+// }
+
+// let fjalaEuserit = prompt("qelloja fjalen");
+// guesstheword(fjalaEuserit);
+
+// function aKaA(fjala) {
+//     for (let i = 0; i < fjala.length; i++) {
+//         if (fjala[i] === "a") {
+//             return true;
+//         }
+//     }
+// }
+
+// aKaA("vueuvvrygreyfre");
+
+// console.log(aKaA("gsygyd"));
+
+function CiftApoTek(vargu) {
+    for (let index = 0; index < vargu.length; index++ ){
+         if (vargu[index] % 2 ==0) {
+        return "cift";
+    } else {
+        return "tek";
+    } 
+    }
+ 
+}
+//  console.log(CiftApoTek(15));
+//  let rezultati = CiftApoTek(2);
+ CiftApoTek([1,2,3,4,5,6]);
+ console.log(CiftApoTek([1,2,3,4,5,6,]))
+ 
+ 
